@@ -1,5 +1,7 @@
 # vue-skills
-""" A simple Task add / list / remove app to learn basics of vue.js """
+"
+A simple Task add / list / remove app to learn basics of vue.js
+"
 
 ## Project setup
 ```
