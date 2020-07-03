@@ -1,4 +1,5 @@
 # vue-skills
+""" A simple Task add / list / remove app to learn basics of vue.js """
 
 ## Project setup
 ```
@@ -20,6 +21,4 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-# vue-crash-course
+
